@@ -1,2 +1,10 @@
-# PPC-CC-2023-2-ES2-NOITE
-Repositório de Documentos e atividades.
+# Sistema de saúde 
+
+## Alunos:
+* Elizângela
+* Luana
+* Caio
+  
+## Contexto do projeto:
+
+O propósito do projeto é criar uma aplicacao para auxiliar o funcionamento dos sistemas de saúde 
