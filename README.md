@@ -12,3 +12,7 @@ O médico irá inserir as informações da(s) consulta(s) com o(s) paciente(s) n
 O paciente terá acesso a agenda dos médicos, histórico de consultas, agendamento de consultas e resultados de exames. 
 
 ## Persona
+**NOME:** Maria Cláudia
+**PERFIL:** Maria Cláudia possui 47 anos, possui 2 filhos, é casada, dona de casa, tem pele parda, possui 1.60 de altura, tem cabelos pretos e tem o ensino médio completo. 
+**COMPORTAMENTO:** Maria não tem tanta facilidade em mexer nos celulares, então o aplicativo precisa ser simples e intuitivo. 
+**NECESSIDADES:** Maria Cláudia tem o tempo corrido e um sistema onde ela consegue realizar agendamento de consulta e consultar seu histórico e resultados de exames facilitará bastante no seu dia a dia. 
